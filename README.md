@@ -1,5 +1,2 @@
 # Zeek
-## Script de Instalacion de Zeek sobre Ubuntu
-## Recursos para Instalacion de Zeek
-## Recursos para Instalacion de Elasticsearch SIEM
-## Recursos para instalacion de Splunk
+Script de Instalacion de Zeek sobre Ubuntu 18.04 LTS. Incluye BD GeoIP de Maxmind y Trial de Splunk Enterprise. 
