@@ -9,6 +9,7 @@ sudo git clone --recursive https://github.com/zeek/zeek
 
 ## Descarga de Base de Datos de GeoIP
 sudo wget https://geolite.maxmind.com/download/geoip/database/GeoLite2-City.tar.gz
+sudo tar xvf GeoLite2-City.tar.gz
 sudo mv GeoLite2-City_20190924/GeoLite2-City.mmdb /usr/share/GeoIP/
 
 ## Instalacion Zeek
